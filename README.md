@@ -17,8 +17,8 @@ And finally, a quote I believe in:
 **"In God we trust, all others must bring data."**
 
 </td>
-    <td style="width: 50%;">
-      <img src="212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Your Animation" width="500"/>
+    <td style="width: 50%">
+      <img src="212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Your Animation" width="400";height="100%">
     </td>
   </tr>
 </table>
