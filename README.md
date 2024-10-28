@@ -10,7 +10,7 @@ Hello! I'm **Daniyal Rouhbakhsh**, a **Backend Developer** focused on **Node.js*
 
 💡 **My Goal** : I aim to blend my skills in **databases** and **backend development** with **Business Intelligence (BI)** to help make businesses smarter.
 
-🌟 **In short** : I’m a backend developer who loves data.
+🌟 **In short** : I’m a Back-End developer who loves data.
 
 And finally, a quote I believe in :
 
