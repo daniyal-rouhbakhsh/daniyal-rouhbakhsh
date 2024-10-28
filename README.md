@@ -1,16 +1,24 @@
-# 👋 About Me
+<table style="border: none; width: 100%;">
+  <tr>
+    <td style="vertical-align: top; width: 50%;">
 
-<div>
-  <p>Hello! I'm Daniyal Rouhbakhsh, a Backend Developer focused on Node.js and passionate about working with data.
+### 👋 About Me
 
-💼 Background? Before starting my journey in programming, I worked in digital marketing, designing ad campaigns with Google Ads. But my true interest has always been in data – turning raw information into valuable insights for businesses.
+Hello! I'm **Daniyal Rouhbakhsh**, a **Backend Developer** focused on **Node.js** and interested in working with **data**.
 
-💡 My Goal? I want to combine my skills in databases and backend development with my knowledge in Business Intelligence (BI) to help make businesses smarter.
+💼 **Background?** Before I started programming, I worked in **digital marketing**, focusing on ad campaigns with **Google Ads**. But my passion has always been data – turning raw data into valuable insights for businesses.
 
-🌟 In short: I’m a backend developer who loves data.
+💡 **My Goal?** I aim to blend my skills in **databases** and **backend development** with **Business Intelligence (BI)** to help make businesses smarter.
+
+🌟 **In short:** I’m a backend developer who loves data.
 
 And finally, a quote I believe in:
-"In God we trust, all others must bring data."</p>
 
-<img src="" style="padding-left:20px">
-</div>
+**"In God we trust, all others must bring data."**
+
+</td>
+    <td style="width: 50%;">
+      <img src="212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Your Animation" width="500"/>
+    </td>
+  </tr>
+</table>
