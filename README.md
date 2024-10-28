@@ -22,3 +22,11 @@ And finally, a quote I believe in :
     </td>
   </tr>
 </table>
+
+---
+
+<h2 align="center">My Currently Skills</h2>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,javascript,nodejs,typescript,expressjs,nestjs,mongodb,mysql,redis,graphql,git,github,gitlab,npm,docker,kubernetes,linux,nginx" />
+</p>
