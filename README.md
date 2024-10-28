@@ -25,7 +25,7 @@ And finally, a quote I believe in :
 
 ---
 
-<h2 align="center">My Currently Skills</h2>
+<h2 align="center">🔧 My Skills</h2>
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,javascript,nodejs,typescript,expressjs,nestjs,mongodb,mysql,redis,graphql,git,github,gitlab,npm,docker,kubernetes,linux,nginx" />
