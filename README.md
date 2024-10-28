@@ -30,3 +30,15 @@ And finally, a quote I believe in :
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,javascript,nodejs,typescript,expressjs,nestjs,mongodb,mysql,redis,graphql,git,github,gitlab,npm,docker,kubernetes,linux,nginx" />
 </p>
+
+
+---
+
+<h2 align="center">📫 Contact Me</h2>
+
+<p align="center">
+    <a><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a target="_blank" href="https://www.linkedin.com/in/daniyal-rouhbakhsh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a target="_blank" href="https://t.me/Daniyal_Rouhbakhsh"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+    <a target="_blank" href="https://instagram.com/daniyal_rouhbakhsh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
