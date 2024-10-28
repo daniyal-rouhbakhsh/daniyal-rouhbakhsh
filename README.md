@@ -1,4 +1,4 @@
-<table style="width: 100%;">
+<table style="border-color: transparent; border: none;">
   <tr>
     <td style="vertical-align: top; width: 50%;">
 
