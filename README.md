@@ -1,8 +1,8 @@
 
 ## Hi there 👋
 
-<div align="center" width="100px">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+<div align="center">
+  <img width="500px" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 </div>
 
 ## My Activity
