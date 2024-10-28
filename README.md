@@ -1,27 +1,16 @@
+# 👋 About Me
 
-## Hi there 👋
+<div>
+  <p>Hello! I'm Daniyal Rouhbakhsh, a Backend Developer focused on Node.js and passionate about working with data.
 
-<div align="center">
-  <img width="500px" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+💼 Background? Before starting my journey in programming, I worked in digital marketing, designing ad campaigns with Google Ads. But my true interest has always been in data – turning raw information into valuable insights for businesses.
+
+💡 My Goal? I want to combine my skills in databases and backend development with my knowledge in Business Intelligence (BI) to help make businesses smarter.
+
+🌟 In short: I’m a backend developer who loves data.
+
+And finally, a quote I believe in:
+"In God we trust, all others must bring data."</p>
+
+<img src="" style="padding-left:20px">
 </div>
-
-## My Activity
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniyal-rouhbakhsh&show_icons=true&theme=dark)
-
-## My Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniyal-rouhbakhsh&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-**daniyal-rouhbakhsh/daniyal-rouhbakhsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
