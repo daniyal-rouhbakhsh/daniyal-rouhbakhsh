@@ -2,15 +2,15 @@
   <tr>
     <td style="vertical-align: top; width: 50%;">
 
-### 👋 About Me
+## 👋 About Me
 
 Hello! I'm **Daniyal Rouhbakhsh**, a **Backend Developer** focused on **Node.js** and interested in working with **data**.
 
-💼 **Background?** Before I started programming, I worked in **digital marketing**, focusing on ad campaigns with **Google Ads**. But my passion has always been data – turning raw data into valuable insights for businesses.
+💼 **Background** : Before I started programming, I worked in **digital marketing**, focusing on ad campaigns with **Google Ads**. But my passion has always been data – turning raw data into valuable insights for businesses.
 
-💡 **My Goal?** I aim to blend my skills in **databases** and **backend development** with **Business Intelligence (BI)** to help make businesses smarter.
+💡 **My Goal** : I aim to blend my skills in **databases** and **backend development** with **Business Intelligence (BI)** to help make businesses smarter.
 
-🌟 **In short:** I’m a backend developer who loves data.
+🌟 **In short** : I’m a backend developer who loves data.
 
 And finally, a quote I believe in:
 
