@@ -1,4 +1,4 @@
-<table style="border: none; width: 100%;">
+<table style="width: 100%;">
   <tr>
     <td style="vertical-align: top; width: 50%;">
 
@@ -12,7 +12,7 @@ Hello! I'm **Daniyal Rouhbakhsh**, a **Backend Developer** focused on **Node.js*
 
 🌟 **In short** : I’m a backend developer who loves data.
 
-And finally, a quote I believe in:
+And finally, a quote I believe in :
 
 **"In God we trust, all others must bring data."**
 
