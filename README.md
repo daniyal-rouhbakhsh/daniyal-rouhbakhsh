@@ -34,6 +34,17 @@ And finally, a quote I believe in :
 
 ---
 
+<h2 align="center">💪 My Activity</h2>
+
+<div align="center" href="https://github.com/daniyal-rouhbakhsh">
+  <img style="height:200px" src="https://github-readme-stats.vercel.app/api?username=daniyal-rouhbakhsh&show_icons=true&theme=dark">
+  <img style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniyal-rouhbakhsh&layout=donut">
+</div>
+
+
+---
+
+
 <h2 align="center">📫 Contact Me</h2>
 
 <p align="center">
