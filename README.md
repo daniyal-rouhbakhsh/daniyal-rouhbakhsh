@@ -34,10 +34,10 @@ And finally, a quote I believe in :
     <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,mongodb,mysql,redis,graphql" />
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,npm,docker,kubernetes,linux,nginx" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,npm" />
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx" />
+    <img src="https://skillicons.dev/icons?i=linux,nginx,docker,kubernetes" />
 </p>
 
 
