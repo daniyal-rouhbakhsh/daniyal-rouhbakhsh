@@ -28,7 +28,16 @@ And finally, a quote I believe in :
 <h2 align="center">🔧 My Skills</h2>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,javascript,nodejs,typescript,expressjs,nestjs,mongodb,mysql,redis,graphql,git,github,gitlab,npm,docker,kubernetes,linux,nginx" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,javascript,typescript" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,mongodb,mysql,redis,graphql" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,npm,docker,kubernetes,linux,nginx" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx" />
 </p>
 
 
